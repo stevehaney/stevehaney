@@ -158,6 +158,13 @@ ul li {
     }
 }
 
+@media screen and (max-width: 64em) {
+    #details section {
+        max-width: 48em;
+        width: 100% !important;
+    }
+}
+
 #details {
 }
 
