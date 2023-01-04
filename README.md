@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stevehaney
 - 👀 I’m interested in B2B marketing, digital media and brands.
 - 🌱 I’m currently learning web3 tech and generative AI for creator communities.
-- 💞️ I’m looking to build something that impact and lasts.
+- 💞️ I’m looking to build something that has broad impact and lasts after I am gone.
 - 📫 How to reach me: 
 
 <!---
